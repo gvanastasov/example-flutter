@@ -1,5 +1,7 @@
 # Example Flutter
 
+Just a simple Flutter app, containing couple of routes and nav between them for a simple showcase. The main point of this repo is to give some basic understanding of what it takes to setup vscode and Flutter dev environment, without the need of AndroidStudio or MS VisualStudio - both coming with payed license once you decide to go more than hobby. Of course they have their great tools and UI, but for simple application development, most can be omit. 
+
 ## Development (VSCode - Android)
 
 1. Install [Flutter Extensions](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
